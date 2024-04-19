@@ -1,7 +1,7 @@
 // se utiliza la funcion const para guardar varias variables 
 
 
-const numeros= [3,45,22,48,53,23,20,17,51,8]
+const numeros= [3,45,22,48,53,23,20,17,51]
 
     for(n of numeros){
         if (n%2 == 0){
